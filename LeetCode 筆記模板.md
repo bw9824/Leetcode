@@ -30,8 +30,3 @@ Fix:
 
 ```
 ````
-
----
-
-## Review markers
- [[LeetCode 刷題進度表]]
