@@ -32,9 +32,9 @@
 
 ## Stack（1）
 
-| # | 題目 | 難度 | 完成日期 |
-|---|---|---|---|
-| 20 | Valid Parentheses | Easy |  |
+| #   | 題目                | 難度   | 完成日期 |
+| --- | ----------------- | ---- | ---- |
+| 20  | Valid Parentheses | Easy |      |
 
 ## Binary Search（2）
 
