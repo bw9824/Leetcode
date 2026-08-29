@@ -1,165 +1,166 @@
 # LeetCode 刷題進度表 — Blind 75
 
-2026/08/27 – 09/15 · 共 75 題 · 週日休息
+## Arrays（8）
 
-進度：0 / 75
-
-## 08/27（四）
-
-| # | 題目 | 難度 | ✔ |
+| # | 題目 | 難度 | 完成日期 |
 |---|---|---|---|
-| 1 | Two Sum | E |  |
-| 121 | Best Time to Buy and Sell Stock | E |  |
-| 217 | Contains Duplicate | E |  |
-| 238 | Product of Array Except Self | M |  |
-| 53 | Maximum Subarray | M |  |
+| 217 | Contains Duplicate | Easy |  |
+| 242 | Valid Anagram | Easy |  |
+| 1 | Two Sum | Easy |  |
+| 49 | Group Anagrams | Medium |  |
+| 347 | Top K Frequent Elements | Medium |  |
+| 271 | Encode and Decode Strings | Medium |  |
+| 238 | Product of Array Except Self | Medium |  |
+| 128 | Longest Consecutive Sequence | Medium |  |
 
-## 08/28（五）
+## Two Pointer（3）
 
-| # | 題目 | 難度 | ✔ |
+| # | 題目 | 難度 | 完成日期 |
 |---|---|---|---|
-| 152 | Maximum Product Subarray | M |  |
-| 153 | Find Minimum in Rotated Sorted Array | M |  |
-| 33 | Search in Rotated Sorted Array | M |  |
-| 15 | 3Sum | M |  |
-| 11 | Container With Most Water | M |  |
+| 125 | Valid Palindrome | Easy |  |
+| 15 | 3Sum | Medium |  |
+| 11 | Container With Most Water | Medium |  |
 
-## 08/29（六）
+## Sliding Window（4）
 
-| # | 題目 | 難度 | ✔ |
+| # | 題目 | 難度 | 完成日期 |
 |---|---|---|---|
-| 268 | Missing Number | E |  |
-| 191 | Number of 1 Bits | E |  |
-| 338 | Counting Bits | E |  |
-| 190 | Reverse Bits | E |  |
-| 371 | Sum of Two Integers | M |  |
+| 121 | Best Time to Buy And Sell Stock | Easy |  |
+| 3 | Longest Substring Without Repeating Characters | Medium |  |
+| 424 | Longest Repeating Character Replacement | Medium |  |
+| 76 | Minimum Window Substring | Hard |  |
 
-## 08/31（一）
+## Stack（1）
 
-| # | 題目 | 難度 | ✔ |
+| # | 題目 | 難度 | 完成日期 |
 |---|---|---|---|
-| 20 | Valid Parentheses | E |  |
-| 242 | Valid Anagram | E |  |
-| 125 | Valid Palindrome | E |  |
-| 49 | Group Anagrams | M |  |
-| 3 | Longest Substring Without Repeating | M |  |
+| 20 | Valid Parentheses | Easy |  |
 
-## 09/01（二）
+## Binary Search（2）
 
-| # | 題目 | 難度 | ✔ |
+| # | 題目 | 難度 | 完成日期 |
 |---|---|---|---|
-| 424 | Longest Repeating Character Replacement | M |  |
-| 5 | Longest Palindromic Substring | M |  |
-| 647 | Palindromic Substrings | M |  |
-| 271 | Encode and Decode Strings | M |  |
-| 76 | Minimum Window Substring | H |  |
+| 153 | Find Minimum In Rotated Sorted Array | Medium |  |
+| 33 | Search In Rotated Sorted Array | Medium |  |
 
-## 09/02（三）
+## Linked List（6）
 
-| # | 題目 | 難度 | ✔ |
+| # | 題目 | 難度 | 完成日期 |
 |---|---|---|---|
-| 206 | Reverse Linked List | E |  |
-| 21 | Merge Two Sorted Lists | E |  |
-| 141 | Linked List Cycle | E |  |
-| 19 | Remove Nth Node From End of List | M |  |
-| 143 | Reorder List | M |  |
+| 206 | Reverse Linked List | Easy |  |
+| 21 | Merge Two Sorted Lists | Easy |  |
+| 141 | Linked List Cycle | Easy |  |
+| 143 | Reorder List | Medium |  |
+| 19 | Remove Nth Node From End of List | Medium |  |
+| 23 | Merge K Sorted Lists | Hard |  |
 
-## 09/03（四）
+## Tree（11）
 
-| # | 題目 | 難度 | ✔ |
+| # | 題目 | 難度 | 完成日期 |
 |---|---|---|---|
-| 23 | Merge k Sorted Lists | H |  |
-| 104 | Maximum Depth of Binary Tree | E |  |
-| 100 | Same Tree | E |  |
-| 226 | Invert Binary Tree | E |  |
-| 572 | Subtree of Another Tree | E |  |
+| 226 | Invert Binary Tree | Easy |  |
+| 104 | Maximum Depth of Binary Tree | Easy |  |
+| 100 | Same Tree | Easy |  |
+| 572 | Subtree of Another Tree | Easy |  |
+| 235 | Lowest Common Ancestor of a Binary Search Tree | Medium |  |
+| 102 | Binary Tree Level Order Traversal | Medium |  |
+| 98 | Validate Binary Search Tree | Medium |  |
+| 230 | Kth Smallest Element In a Bst | Medium |  |
+| 105 | Construct Binary Tree From Preorder And Inorder Traversal | Medium |  |
+| 124 | Binary Tree Maximum Path Sum | Hard |  |
+| 297 | Serialize And Deserialize Binary Tree | Hard |  |
 
-## 09/04（五）
+## Heap（1）
 
-| # | 題目 | 難度 | ✔ |
+| # | 題目 | 難度 | 完成日期 |
 |---|---|---|---|
-| 102 | Binary Tree Level Order Traversal | M |  |
-| 98 | Validate Binary Search Tree | M |  |
-| 230 | Kth Smallest Element in a BST | M |  |
-| 235 | Lowest Common Ancestor of a BST | M |  |
+| 295 | Find Median From Data Stream | Hard |  |
 
-## 09/05（六）
+## Backtracking（2）
 
-| # | 題目 | 難度 | ✔ |
+| # | 題目 | 難度 | 完成日期 |
 |---|---|---|---|
-| 105 | Construct Binary Tree from Preorder and Inorder | M |  |
-| 124 | Binary Tree Maximum Path Sum | H |  |
-| 297 | Serialize and Deserialize Binary Tree | H |  |
-| 347 | Top K Frequent Elements | M |  |
+| 39 | Combination Sum | Medium |  |
+| 79 | Word Search | Medium |  |
 
-## 09/07（一）
+## Tries（3）
 
-| # | 題目 | 難度 | ✔ |
+| # | 題目 | 難度 | 完成日期 |
 |---|---|---|---|
-| 208 | Implement Trie (Prefix Tree) | M |  |
-| 211 | Design Add and Search Words Data Structure | M |  |
-| 212 | Word Search II | H |  |
-| 295 | Find Median from Data Stream | H |  |
+| 208 | Implement Trie Prefix Tree | Medium |  |
+| 211 | Design Add And Search Words Data Structure | Medium |  |
+| 212 | Word Search II | Hard |  |
 
-## 09/08（二）
+## Graph（6）
 
-| # | 題目 | 難度 | ✔ |
+| # | 題目 | 難度 | 完成日期 |
 |---|---|---|---|
-| 200 | Number of Islands | M |  |
-| 133 | Clone Graph | M |  |
-| 417 | Pacific Atlantic Water Flow | M |  |
-| 207 | Course Schedule | M |  |
+| 200 | Number of Islands | Medium |  |
+| 133 | Clone Graph | Medium |  |
+| 417 | Pacific Atlantic Water Flow | Medium |  |
+| 207 | Course Schedule | Medium |  |
+| 261 | Graph Valid Tree | Medium |  |
+| 323 | Number of Connected Components In An Undirected Graph | Medium |  |
 
-## 09/09（三）
+## Advanced Graph（1）
 
-| # | 題目 | 難度 | ✔ |
+| # | 題目 | 難度 | 完成日期 |
 |---|---|---|---|
-| 128 | Longest Consecutive Sequence | M |  |
-| 323 | Number of Connected Components | M |  |
-| 261 | Graph Valid Tree | M |  |
-| 269 | Alien Dictionary | H |  |
+| 269 | Alien Dictionary | Hard |  |
 
-## 09/10（四）
+## 1-D Dynamic Programming（10）
 
-| # | 題目 | 難度 | ✔ |
+| # | 題目 | 難度 | 完成日期 |
 |---|---|---|---|
-| 70 | Climbing Stairs | E |  |
-| 322 | Coin Change | M |  |
-| 300 | Longest Increasing Subsequence | M |  |
-| 1143 | Longest Common Subsequence | M |  |
+| 70 | Climbing Stairs | Easy |  |
+| 198 | House Robber | Medium |  |
+| 213 | House Robber II | Medium |  |
+| 5 | Longest Palindromic Substring | Medium |  |
+| 647 | Palindromic Substrings | Medium |  |
+| 91 | Decode Ways | Medium |  |
+| 322 | Coin Change | Medium |  |
+| 152 | Maximum Product Subarray | Medium |  |
+| 139 | Word Break | Medium |  |
+| 300 | Longest Increasing Subsequence | Medium |  |
 
-## 09/11（五）
+## 2-D Dynamic Programming（2）
 
-| # | 題目 | 難度 | ✔ |
+| # | 題目 | 難度 | 完成日期 |
 |---|---|---|---|
-| 139 | Word Break | M |  |
-| 377 | Combination Sum IV | M |  |
-| 198 | House Robber | M |  |
-| 213 | House Robber II | M |  |
+| 62 | Unique Paths | Medium |  |
+| 1143 | Longest Common Subsequence | Medium |  |
 
-## 09/12（六）
+## Greedy（2）
 
-| # | 題目 | 難度 | ✔ |
+| # | 題目 | 難度 | 完成日期 |
 |---|---|---|---|
-| 91 | Decode Ways | M |  |
-| 62 | Unique Paths | M |  |
-| 55 | Jump Game | M |  |
+| 53 | Maximum Subarray | Medium |  |
+| 55 | Jump Game | Medium |  |
 
-## 09/14（一）
+## Intervals（5）
 
-| # | 題目 | 難度 | ✔ |
+| # | 題目 | 難度 | 完成日期 |
 |---|---|---|---|
-| 252 | Meeting Rooms | E |  |
-| 56 | Merge Intervals | M |  |
-| 57 | Insert Interval | M |  |
-| 435 | Non-overlapping Intervals | M |  |
-| 253 | Meeting Rooms II | M |  |
+| 57 | Insert Interval | Medium |  |
+| 56 | Merge Intervals | Medium |  |
+| 435 | Non Overlapping Intervals | Medium |  |
+| 252 | Meeting Rooms | Easy |  |
+| 253 | Meeting Rooms II | Medium |  |
 
-## 09/15（二）
+## Math（3）
 
-| # | 題目 | 難度 | ✔ |
-|---|---|---|---|
-| 73 | Set Matrix Zeroes | M |  |
-| 54 | Spiral Matrix | M |  |
-| 48 | Rotate Image | M |  |
-| 79 | Word Search | M |  |
+| #   | 題目                | 難度     | 完成日期 |
+| --- | ----------------- | ------ | ---- |
+| 48  | Rotate Image      | Medium |      |
+| 54  | Spiral Matrix     | Medium |      |
+| 73  | Set Matrix Zeroes | Medium |      |
+
+## Bit Manipulation（5）
+
+| #   | 題目                  | 難度     | 完成日期       |
+| --- | ------------------- | ------ | ---------- |
+| 191 | Number of 1 Bits    | Easy   | 2026/08/27 |
+| 338 | Counting Bits       | Easy   | 2026/08/27 |
+| 190 | Reverse Bits        | Easy   | 2026/08/30 |
+| 268 | Missing Number      | Easy   | 2026/08/30 |
+| 371 | Sum of Two Integers | Medium | 2026/08/30 |

@@ -19,7 +19,7 @@ tags: #Array #Math
 ```
 ### Complexity — Time / Space:
 
-### Edge Cases:
+### Edge Cases
 
 ### Issue & Fix
 Issue: 
