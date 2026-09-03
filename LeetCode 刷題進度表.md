@@ -2,24 +2,24 @@
 
 ## Arrays（8）
 
-| # | 題目 | 難度 | 完成日期 |
-|---|---|---|---|
-| 217 | Contains Duplicate | Easy |  |
-| 242 | Valid Anagram | Easy |  |
-| 1 | Two Sum | Easy |  |
-| 49 | Group Anagrams | Medium |  |
-| 347 | Top K Frequent Elements | Medium |  |
-| 271 | Encode and Decode Strings | Medium |  |
-| 238 | Product of Array Except Self | Medium |  |
-| 128 | Longest Consecutive Sequence | Medium |  |
+| #   | 題目                           | 難度     | 完成日期       |
+| --- | ---------------------------- | ------ | ---------- |
+| 217 | Contains Duplicate           | Easy   | 2026/08/30 |
+| 242 | Valid Anagram                | Easy   |            |
+| 1   | Two Sum                      | Easy   |            |
+| 49  | Group Anagrams               | Medium |            |
+| 347 | Top K Frequent Elements      | Medium |            |
+| 271 | Encode and Decode Strings    | Medium |            |
+| 238 | Product of Array Except Self | Medium |            |
+| 128 | Longest Consecutive Sequence | Medium |            |
 
 ## Two Pointer（3）
 
-| # | 題目 | 難度 | 完成日期 |
-|---|---|---|---|
-| 125 | Valid Palindrome | Easy |  |
-| 15 | 3Sum | Medium |  |
-| 11 | Container With Most Water | Medium |  |
+| #   | 題目                        | 難度     | 完成日期 |
+| --- | ------------------------- | ------ | ---- |
+| 125 | Valid Palindrome          | Easy   |      |
+| 15  | 3Sum                      | Medium |      |
+| 11  | Container With Most Water | Medium |      |
 
 ## Sliding Window（4）
 
@@ -32,9 +32,9 @@
 
 ## Stack（1）
 
-| #   | 題目                | 難度   | 完成日期 |
-| --- | ----------------- | ---- | ---- |
-| 20  | Valid Parentheses | Easy |      |
+| #   | 題目                | 難度   | 完成日期       |
+| --- | ----------------- | ---- | ---------- |
+| 20  | Valid Parentheses | Easy | 2026/08/30 |
 
 ## Binary Search（2）
 
@@ -78,10 +78,10 @@
 
 ## Backtracking（2）
 
-| # | 題目 | 難度 | 完成日期 |
-|---|---|---|---|
-| 39 | Combination Sum | Medium |  |
-| 79 | Word Search | Medium |  |
+| #   | 題目              | 難度     | 完成日期 |
+| --- | --------------- | ------ | ---- |
+| 39  | Combination Sum | Medium |      |
+| 79  | Word Search     | Medium |      |
 
 ## Tries（3）
 
