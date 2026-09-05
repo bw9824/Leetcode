@@ -1,4 +1,4 @@
-# LeetCode 刷題進度表 — Blind 75
+# LeetCode Progress Chart — Blind 75
 
 ## Arrays（8）
 
@@ -15,11 +15,11 @@
 
 ## Two Pointer（3）
 
-| #   | 題目                        | 難度     | 完成日期 |
-| --- | ------------------------- | ------ | ---- |
-| 125 | Valid Palindrome          | Easy   |      |
-| 15  | 3Sum                      | Medium |      |
-| 11  | Container With Most Water | Medium |      |
+| #   | 題目                        | 難度     | 完成日期       |
+| --- | ------------------------- | ------ | ---------- |
+| 125 | Valid Palindrome          | Easy   | 2026/09/02 |
+| 15  | 3Sum                      | Medium |            |
+| 11  | Container With Most Water | Medium | 2026/09/02 |
 
 ## Sliding Window（4）
 
@@ -38,21 +38,21 @@
 
 ## Binary Search（2）
 
-| # | 題目 | 難度 | 完成日期 |
-|---|---|---|---|
-| 153 | Find Minimum In Rotated Sorted Array | Medium |  |
-| 33 | Search In Rotated Sorted Array | Medium |  |
+| #   | 題目                                   | 難度     | 完成日期 |
+| --- | ------------------------------------ | ------ | ---- |
+| 153 | Find Minimum In Rotated Sorted Array | Medium |      |
+| 33  | Search In Rotated Sorted Array       | Medium |      |
 
 ## Linked List（6）
 
-| # | 題目 | 難度 | 完成日期 |
-|---|---|---|---|
-| 206 | Reverse Linked List | Easy |  |
-| 21 | Merge Two Sorted Lists | Easy |  |
-| 141 | Linked List Cycle | Easy |  |
-| 143 | Reorder List | Medium |  |
-| 19 | Remove Nth Node From End of List | Medium |  |
-| 23 | Merge K Sorted Lists | Hard |  |
+| #   | 題目                               | 難度     | 完成日期 |
+| --- | -------------------------------- | ------ | ---- |
+| 206 | Reverse Linked List              | Easy   |      |
+| 21  | Merge Two Sorted Lists           | Easy   |      |
+| 141 | Linked List Cycle                | Easy   |      |
+| 143 | Reorder List                     | Medium |      |
+| 19  | Remove Nth Node From End of List | Medium |      |
+| 23  | Merge K Sorted Lists             | Hard   |      |
 
 ## Tree（11）
 
@@ -93,14 +93,14 @@
 
 ## Graph（6）
 
-| # | 題目 | 難度 | 完成日期 |
-|---|---|---|---|
-| 200 | Number of Islands | Medium |  |
-| 133 | Clone Graph | Medium |  |
-| 417 | Pacific Atlantic Water Flow | Medium |  |
-| 207 | Course Schedule | Medium |  |
-| 261 | Graph Valid Tree | Medium |  |
-| 323 | Number of Connected Components In An Undirected Graph | Medium |  |
+| #   | 題目                                                    | 難度     | 完成日期 |
+| --- | ----------------------------------------------------- | ------ | ---- |
+| 200 | Number of Islands                                     | Medium |      |
+| 133 | Clone Graph                                           | Medium |      |
+| 417 | Pacific Atlantic Water Flow                           | Medium |      |
+| 207 | Course Schedule                                       | Medium |      |
+| 261 | Graph Valid Tree                                      | Medium |      |
+| 323 | Number of Connected Components In An Undirected Graph | Medium |      |
 
 ## Advanced Graph（1）
 
@@ -139,21 +139,21 @@
 
 ## Intervals（5）
 
-| # | 題目 | 難度 | 完成日期 |
-|---|---|---|---|
-| 57 | Insert Interval | Medium |  |
-| 56 | Merge Intervals | Medium |  |
-| 435 | Non Overlapping Intervals | Medium |  |
-| 252 | Meeting Rooms | Easy |  |
-| 253 | Meeting Rooms II | Medium |  |
+| #   | 題目                        | 難度     | 完成日期       |
+| --- | ------------------------- | ------ | ---------- |
+| 57  | Insert Interval           | Medium |            |
+| 56  | Merge Intervals           | Medium |            |
+| 435 | Non Overlapping Intervals | Medium |            |
+| 252 | Meeting Rooms             | Easy   | 2026/09/04 |
+| 253 | Meeting Rooms II          | Medium |            |
 
 ## Math（3）
 
-| #   | 題目                | 難度     | 完成日期 |
-| --- | ----------------- | ------ | ---- |
-| 48  | Rotate Image      | Medium |      |
-| 54  | Spiral Matrix     | Medium |      |
-| 73  | Set Matrix Zeroes | Medium |      |
+| #   | 題目                | 難度     | 完成日期       |
+| --- | ----------------- | ------ | ---------- |
+| 48  | Rotate Image      | Medium | 2026/09/04 |
+| 54  | Spiral Matrix     | Medium | 2026/09/04 |
+| 73  | Set Matrix Zeroes | Medium | 2026/09/04 |
 
 ## Bit Manipulation（5）
 
