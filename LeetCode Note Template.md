@@ -8,10 +8,9 @@ difficulty: `easy` `medium` `hard`
 tags: #Array #Math
 
 ### Problem
-(貼題目)
 
 ### Note
-(可留白，有 key idea 再寫)
+(key idea)
 
 ### Solution
 ```c
