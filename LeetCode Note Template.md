@@ -1,16 +1,18 @@
-# LeetCode Note Template
----
-
-````markdown
-
 # number. Title
 difficulty: `easy` `medium` `hard`
 tags: #Array #Math
 
 ### Problem
 
+
+```
+Example 1:
+
+```
+
 ### Note
 (key idea)
+
 
 ### Solution
 ```c
@@ -28,4 +30,3 @@ Fix:
 ```c
 
 ```
-````
