@@ -61,7 +61,7 @@
 
 | #    | Title                                                                                                                           | Difficulty | Source               | ⭐   | Date       |
 | ---- | ------------------------------------------------------------------------------------------------------------------------------- | ---------- | -------------------- | --- | ---------- |
-| 206  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                                                       | Easy       | `75` `H100`          | ⭐   |            |
+| 206  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                                                       | Easy       | `75` `H100`          | ⭐   | 2026/09/30 |
 | 21   | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                                 | Easy       | `75` `I150` `H100`   | ⭐   | 2026/09/30 |
 | 141  | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                                           | Easy       | `75` `I150` `H100`   | ⭐   | 2026/09/30 |
 | 876  | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)                                           | Easy       | `FW`                 | ⭐   |            |
@@ -76,7 +76,7 @@
 | 328  | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)                                                     | Medium     | `FW`                 | ⭐   |            |
 | 142  | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)                                                     | Medium     | `H100`               |     |            |
 | 19   | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)                             | Medium     | `75` `I150` `H100`   |     | 2026/09/29 |
-| 143  | [Reorder List](https://leetcode.com/problems/reorder-list/)                                                                     | Medium     | `75`                 |     |            |
+| 143  | [Reorder List](https://leetcode.com/problems/reorder-list/)                                                                     | Medium     | `75`                 |     | 2026/09/30 |
 | 2    | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                                               | Medium     | `N150` `I150` `H100` |     |            |
 | 82   | [Remove Duplicates From Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)                   | Medium     | `I150`               |     |            |
 | 86   | [Partition List](https://leetcode.com/problems/partition-list/)                                                                 | Medium     | `I150`               |     |            |
@@ -95,10 +95,10 @@
 
 | #    | Title                                                                                                     | Difficulty | Source               | ⭐   | Date       |
 | ---- | --------------------------------------------------------------------------------------------------------- | ---------- | -------------------- | --- | ---------- |
-| 191  | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)                                       | Easy       | `75` `I150`          | ⭐   | 2026/08/27 |
-| 338  | [Counting Bits](https://leetcode.com/problems/counting-bits/)                                             | Easy       | `75`                 |     | 2026/08/27 |
-| 190  | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)                                               | Easy       | `75` `I150`          | ⭐   | 2026/08/30 |
-| 268  | [Missing Number](https://leetcode.com/problems/missing-number/)                                           | Easy       | `75`                 |     | 2026/08/30 |
+| 191  | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)                                       | Easy       | `75` `I150`          | ⭐   | 2026/09/30 |
+| 338  | [Counting Bits](https://leetcode.com/problems/counting-bits/)                                             | Easy       | `75`                 |     | 2026/09/30 |
+| 190  | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)                                               | Easy       | `75` `I150`          | ⭐   | 2026/09/30 |
+| 268  | [Missing Number](https://leetcode.com/problems/missing-number/)                                           | Easy       | `75`                 |     | 2026/09/30 |
 | 136  | [Single Number](https://leetcode.com/problems/single-number/)                                             | Easy       | `N150` `I150` `H100` |     |            |
 | 231  | [Power of Two](https://leetcode.com/problems/power-of-two/)                                               | Easy       | `FW`                 |     |            |
 | 342  | [Power of Four](https://leetcode.com/problems/power-of-four/)                                             | Easy       | `FW`                 |     |            |
@@ -107,7 +107,7 @@
 | 693  | [Binary Number With Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/) | Easy       | `FW`                 |     |            |
 | 405  | [Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/)         | Easy       | `FW`                 |     |            |
 | 67   | [Add Binary](https://leetcode.com/problems/add-binary/)                                                   | Easy       | `N250` `I150`        |     |            |
-| 371  | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)                                 | Medium     | `75`                 | ⭐   | 2026/08/30 |
+| 371  | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)                                 | Medium     | `75`                 | ⭐   | 2026/09/30 |
 | 7    | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)                                         | Medium     | `N150`               |     |            |
 | 137  | [Single Number II](https://leetcode.com/problems/single-number-ii/)                                       | Medium     | `I150`               |     |            |
 | 201  | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)               | Medium     | `N250` `I150`        |     |            |
