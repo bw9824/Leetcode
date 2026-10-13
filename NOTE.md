@@ -58,5 +58,8 @@ slow->next = head;               // p->next == (*p).next
 ## Math
 ## Stack
 ## String
+char s[] = "abc";
+strlen(s) = 3 ← The number is counted before '\0'
+sizeof(s) = 4 ← The whole memory
 
 ## Two Pointer

@@ -99,7 +99,7 @@
 | 338  | [Counting Bits](https://leetcode.com/problems/counting-bits/)                                             | Easy       | `75`                 |     | 2026/09/30 |
 | 190  | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)                                               | Easy       | `75` `I150`          | ⭐   | 2026/09/30 |
 | 268  | [Missing Number](https://leetcode.com/problems/missing-number/)                                           | Easy       | `75`                 |     | 2026/09/30 |
-| 136  | [Single Number](https://leetcode.com/problems/single-number/)                                             | Easy       | `N150` `I150` `H100` |     |            |
+| 136  | [Single Number](https://leetcode.com/problems/single-number/)                                             | Easy       | `N150` `I150` `H100` |     | 2026/10/07 |
 | 231  | [Power of Two](https://leetcode.com/problems/power-of-two/)                                               | Easy       | `FW`                 |     |            |
 | 342  | [Power of Four](https://leetcode.com/problems/power-of-four/)                                             | Easy       | `FW`                 |     |            |
 | 461  | [Hamming Distance](https://leetcode.com/problems/hamming-distance/)                                       | Easy       | `FW`                 |     |            |
